@@ -1,0 +1,69 @@
+{
+  "head": {
+    "bodyPartName": "Голова",
+    "bodyPartSymptoms": [
+      "Головная боль",
+      "Боль в глазах",
+      "Боль в горле",
+      "Насморк"
+    ],
+    "diseases": [
+      {
+        "name": "Ангина",
+        "symptoms": [
+          "Головная боль",
+          "Боль в горле",
+          "Насморк"
+        ]
+      },
+      {
+        "name": "Простуда",
+        "symptoms": [
+          "Головная боль",
+          "Насморк"
+        ]
+      },
+      {
+        "name": "Усталость глаза",
+        "symptoms": [
+          "Головная боль",
+          "Боль в глазах"
+        ]
+      }
+    ]
+  },
+  "arms": {
+    "bodyPartName": "Руки",
+    "bodyPartSymptoms": [
+      "sym1",
+      "sym2",
+      "sym3",
+      "sym4"
+    ],
+    "diseases": [
+      {
+        "name": "dise name",
+        "symptoms": [
+          "sym1",
+          "sym2",
+          "sym3"
+        ]
+      },
+      {
+        "name": "dise1",
+        "symptoms": [
+          "sym1",
+          "sym3"
+        ]
+      },
+      {
+        "name": "dise2",
+        "symptoms": [
+          "sym1",
+          "sym4"
+        ]
+      }
+    ]
+  }
+}
+
